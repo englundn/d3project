@@ -1,0 +1,21 @@
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+
+header {
+  height: 55px;
+  background-color: black;
+  color: white;
+  font-size:40px;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+svg {
+  position: absolute;
+}
+
+#map {
+  height: 100%;
+}
